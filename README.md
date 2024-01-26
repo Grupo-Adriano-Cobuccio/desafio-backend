@@ -1,5 +1,18 @@
 # Teste Técnico para Vaga de Backend
 
+Antes de tudo, queremos expressar nossa gratidão pelo seu interesse em se juntar ao Grupo Adriano Cobuccio! Confira todas as informações essenciais para começar o seu teste logo abaixo.
+
+## Antes de Começar:
+
+- Crie um repositório no seu GitHub com um nome legal para o projeto mas não cite a empresa.
+- Faça seus commits no seu repositório.
+- Ao terminar tudo ou uma parte até o dia passado pelo recrutador, envie o link de acesso ao seu repositório para o recrutador responsável via email.
+- Fique a vontade para perguntar qualquer dúvida aos recrutadores.
+
+<br />
+
+Que a sorte esteja com você! 🚀
+
 ## Necessidade:
 
 João, um funcionário da empresa, precisa otimizar o processo de recebimento de pagamentos feitos no dia anterior por meio de um arquivo de texto específico. Atualmente, ele utiliza o Excel para manipulação eficiente dos dados, mas devido à necessidade de integração com outros serviços backend na empresa, ele busca uma solução mais robusta. Seu desafio é resolver este problema com uma api REST.
